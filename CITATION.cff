@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, and cite the article it accompanies."
+title: "rank-before-you-sort: ranked set sampling tools for municipal solid waste composition audits"
+version: 1.0.0
+date-released: 2026-11-01
+license: MIT
+authors:
+  - family-names: Hanandeh
+    given-names: Ahmad A.
+    affiliation: "Department of Mathematics, Islamic University of Madinah, Saudi Arabia"
+    email: hanandaa@mail.uc.edu
+# doi: 10.5281/zenodo.XXXXXXX   <- fill in after the first Zenodo release
+repository-code: "https://github.com/<github-user>/rank-before-you-sort"
+keywords:
+  - waste characterisation
+  - composition audit
+  - ranked set sampling
+  - sampling design

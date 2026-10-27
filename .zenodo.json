@@ -1,0 +1,10 @@
+{
+  "title": "rank-before-you-sort: ranked set sampling tools for municipal solid waste composition audits",
+  "upload_type": "software",
+  "description": "Code, derived data and a command-line field tool accompanying the article 'Rank before you sort: a ranked set sampling protocol for cheaper and safer municipal solid waste composition audits'. Includes the resampling engine used for the multi-country validation, the simulation study, and rbys_tool.py for planning an audit from a pilot, printing recording sheets and estimating compositions with confidence intervals.",
+  "creators": [
+    {"name": "Hanandeh, Ahmad A.", "affiliation": "Islamic University of Madinah"}
+  ],
+  "license": "MIT",
+  "keywords": ["waste characterisation", "composition audit", "ranked set sampling", "sampling design", "manual sorting"]
+}
